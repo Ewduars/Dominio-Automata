@@ -1,0 +1,42 @@
+[05:26:22] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[05:26:23] [ServerMain/INFO]: Loaded 1470 recipes
+[05:26:24] [ServerMain/INFO]: Loaded 1584 advancements
+[05:26:24] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[05:26:24] [Server thread/INFO]: Loading properties
+[05:26:24] [Server thread/INFO]: Default game type: SURVIVAL
+[05:26:24] [Server thread/INFO]: Generating keypair
+[05:26:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:26:24] [Server thread/INFO]: Preparing level "Dominio Automata"
+[05:26:24] [Server thread/INFO]: Loading 0 persistent chunks...
+[05:26:24] [Server thread/INFO]: Preparing spawn area: 100%
+[05:26:24] [Server thread/INFO]: Time elapsed: 16 ms
+[05:26:24] [Server thread/INFO]: Done (0.383s)! For help, type "help"
+[05:26:25] [Server thread/INFO]: Server empty for 1 seconds, pausing
+[05:26:35] [User Authenticator #1/INFO]: UUID of player Yuusha_chan is 360163b2-0ef1-42be-aeac-bf807e7103ce
+[05:26:36] [Server thread/INFO]: Yuusha_chan[/100.93.37.24:58504] logged in with entity id 77 at (-3385.7870680543037, 72.0, -492.38635100353207)
+[05:26:36] [Server thread/INFO]: Yuusha_chan joined the game
+[05:31:22] [Server thread/INFO]: Seed: [1573662502014336678]
+[05:53:15] [Server thread/INFO]: Yuusha_chan has made the advancement [Suit Up]
+[05:54:15] [Server thread/INFO]: Yuusha_chan has made the advancement [Not Today, Thank You]
+[05:56:36] [Server thread/INFO]: Yuusha_chan lost connection: Disconnected
+[05:56:36] [Server thread/INFO]: Yuusha_chan left the game
+[05:56:37] [Server thread/INFO]: Server empty for 1 seconds, pausing
+[05:56:46] [Server thread/INFO]: Unknown item 'minecraft:amatyst'
+[05:56:46] [Server thread/INFO]: ...usha_chan amatyst<--[HERE]
+[05:57:19] [User Authenticator #2/INFO]: UUID of player Yuusha_chan is 360163b2-0ef1-42be-aeac-bf807e7103ce
+[05:57:20] [Server thread/INFO]: Yuusha_chan[/100.93.37.24:62132] logged in with entity id 18582 at (-3861.699999988079, 64.0, -357.1996578528378)
+[05:57:20] [Server thread/INFO]: Yuusha_chan joined the game
+[05:57:33] [Server thread/INFO]: Unknown item 'minecraft:amethyst_shardgive'
+[05:57:33] [Server thread/INFO]: ...usha_chan amethyst_shardgive Yuusha_chan amethyst_shard 5<--[HERE]
+[05:58:06] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[05:58:06] [Server thread/INFO]: givegive Yuusha_chan amethyst_shard 5<--[HERE]
+[05:58:18] [Server thread/INFO]: Gave 5 [Amethyst Shard] to Yuusha_chan
+[06:02:26] [Server thread/INFO]: Yuusha_chan has made the advancement [Voluntary Exile]
+[06:16:13] [Server thread/INFO]: Villager dcx['Villager'/19620, l='ServerLevel[Dominio Automata]', x=-3377.72, y=72.06, z=-483.50] died, message: 'Villager suffocated in a wall'
+[06:20:26] [Server thread/INFO]: Villager dcx['Villager'/25325, l='ServerLevel[Dominio Automata]', x=-2960.67, y=35.00, z=-329.35] died, message: 'Villager hit the ground too hard'
+[06:26:31] [Server thread/INFO]: Villager dcx['Villager'/25323, l='ServerLevel[Dominio Automata]', x=-2979.86, y=38.00, z=-317.36] died, message: 'Villager hit the ground too hard'
+[06:32:48] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[06:32:48] [Server thread/INFO]: asd<--[HERE]
+[06:32:51] [Server thread/INFO]: [Not Secure] [Server] asd
+[06:34:05] [Server thread/INFO]: Villager dcx['Villager'/25277, l='ServerLevel[Dominio Automata]', x=-2973.70, y=35.00, z=-322.34] died, message: 'Villager hit the ground too hard'
+[06:46:39] [Server thread/INFO]: Yuusha_chan has made the advancement [The Parrots and the Bats]

@@ -1,0 +1,71 @@
+[18:07:13] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[18:07:16] [ServerMain/INFO]: Loaded 1470 recipes
+[18:07:16] [ServerMain/INFO]: Loaded 1584 advancements
+[18:07:16] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[18:07:16] [Server thread/INFO]: Loading properties
+[18:07:16] [Server thread/INFO]: Default game type: SURVIVAL
+[18:07:16] [Server thread/INFO]: Generating keypair
+[18:07:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:07:16] [Server thread/INFO]: Preparing level "Dominio Automata"
+[18:07:16] [Server thread/INFO]: Loading 0 persistent chunks...
+[18:07:16] [Server thread/INFO]: Preparing spawn area: 100%
+[18:07:16] [Server thread/INFO]: Time elapsed: 17 ms
+[18:07:16] [Server thread/INFO]: Done (0.424s)! For help, type "help"
+[18:07:17] [Server thread/INFO]: Server empty for 1 seconds, pausing
+[18:07:31] [User Authenticator #1/INFO]: UUID of player Yuusha_chan is 360163b2-0ef1-42be-aeac-bf807e7103ce
+[18:07:32] [Server thread/INFO]: Yuusha_chan[/[0:0:0:0:0:0:0:1]:48806] logged in with entity id 82 at (-3385.7226887242914, 72.0, -494.6963726198711)
+[18:07:32] [Server thread/INFO]: Yuusha_chan joined the game
+[18:18:25] [Server thread/INFO]: Yuusha_chan lost connection: Disconnected
+[18:18:25] [Server thread/INFO]: Yuusha_chan left the game
+[18:18:26] [Server thread/INFO]: Server empty for 1 seconds, pausing
+[18:19:59] [User Authenticator #2/INFO]: UUID of player Yuusha_chan is 360163b2-0ef1-42be-aeac-bf807e7103ce
+[18:19:59] [Server thread/INFO]: Yuusha_chan[/[0:0:0:0:0:0:0:1]:39732] logged in with entity id 5334 at (-3389.7944238823025, 72.0, -496.69979363210916)
+[18:19:59] [Server thread/INFO]: Yuusha_chan joined the game
+[18:20:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2360ms or 47 ticks behind
+[18:29:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[18:31:46] [Server thread/INFO]: Yuusha_chan has made the advancement [A Terrible Fortress]
+[18:36:07] [Server thread/INFO]: Yuusha_chan has made the advancement [Into Fire]
+[18:45:57] [Server thread/WARN]: Yuusha_chan was kicked for floating too long!
+[18:45:57] [Server thread/INFO]: Yuusha_chan lost connection: Flying is not enabled on this server
+[18:45:57] [Server thread/INFO]: Yuusha_chan left the game
+[18:45:57] [Server thread/WARN]: handleDisconnection() called twice
+[18:45:58] [Server thread/INFO]: Server empty for 1 seconds, pausing
+[18:46:08] [User Authenticator #3/INFO]: UUID of player Yuusha_chan is 360163b2-0ef1-42be-aeac-bf807e7103ce
+[18:46:08] [Server thread/INFO]: Yuusha_chan[/[0:0:0:0:0:0:0:1]:44014] logged in with entity id 12745 at (-166.767103228198, 64.00133597911214, -113.46785624954185)
+[18:46:08] [Server thread/INFO]: Yuusha_chan joined the game
+[19:08:46] [Server thread/INFO]: Yuusha_chan lost connection: Disconnected
+[19:08:46] [Server thread/INFO]: Yuusha_chan left the game
+[19:08:47] [Server thread/INFO]: Server empty for 1 seconds, pausing
+[19:19:18] [User Authenticator #4/INFO]: UUID of player Yuusha_chan is 360163b2-0ef1-42be-aeac-bf807e7103ce
+[19:19:18] [Server thread/INFO]: Yuusha_chan[/[0:0:0:0:0:0:0:1]:42462] logged in with entity id 22399 at (-3373.79087713775, 72.0, -478.265008177357)
+[19:19:18] [Server thread/INFO]: Yuusha_chan joined the game
+[19:30:18] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-3362, y=76, z=-495} is{x=-3363, y=80, z=-495}
+[19:30:18] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-3362, y=76, z=-495} is{x=-3363, y=80, z=-495}
+[19:32:39] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-3362, y=80, z=-495} is{x=-3362, y=79, z=-494}
+[19:37:54] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-3365, y=77, z=-495} is{x=-3365, y=76, z=-496}
+[19:41:01] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-3364, y=80, z=-499} is{x=-3363, y=76, z=-498}
+[19:41:01] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-3364, y=80, z=-499} is{x=-3363, y=76, z=-498}
+[19:41:01] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-3364, y=80, z=-499} is{x=-3363, y=76, z=-498}
+[19:41:14] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-3362, y=78, z=-498} is{x=-3363, y=80, z=-498}
+[19:43:13] [Server thread/INFO]: Villager dcx['Villager'/23067, l='ServerLevel[Dominio Automata]', x=-2987.56, y=41.32, z=-312.87] died, message: 'Villager tried to swim in lava'
+[19:44:35] [Server thread/INFO]: Yuusha_chan lost connection: Disconnected
+[19:44:35] [Server thread/INFO]: Yuusha_chan left the game
+[19:44:36] [Server thread/INFO]: Server empty for 1 seconds, pausing
+[19:45:25] [User Authenticator #5/INFO]: UUID of player Yuusha_chan is 360163b2-0ef1-42be-aeac-bf807e7103ce
+[19:45:25] [Server thread/INFO]: Yuusha_chan[/[0:0:0:0:0:0:0:1]:60432] logged in with entity id 32279 at (-3386.5, 72.0, -491.5)
+[19:45:25] [Server thread/INFO]: Yuusha_chan joined the game
+[19:47:06] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-3363, y=72, z=-499} is{x=-3365, y=75, z=-498}
+[20:10:05] [Server thread/INFO]: Yuusha_chan lost connection: Disconnected
+[20:10:05] [Server thread/INFO]: Yuusha_chan left the game
+[20:10:06] [Server thread/INFO]: Server empty for 1 seconds, pausing
+[20:10:19] [Server thread/INFO]: Stopping the server
+[20:10:19] [Server thread/INFO]: Stopping server
+[20:10:19] [Server thread/INFO]: Saving players
+[20:10:19] [Server thread/INFO]: Saving worlds
+[20:10:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Dominio Automata]'/minecraft:overworld
+[20:10:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Dominio Automata]'/minecraft:the_end
+[20:10:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Dominio Automata]'/minecraft:the_nether
+[20:10:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (Dominio Automata): All chunks are saved
+[20:10:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:10:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:10:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
